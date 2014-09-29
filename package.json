@@ -1,0 +1,11 @@
+{
+	"name": "is-global-context",
+	"version": "1.0.0",
+	"description": "",
+	"main": "is-global-context.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "rektide de l a faye",
+	"license": "X"
+}
